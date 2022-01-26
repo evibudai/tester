@@ -13,7 +13,7 @@ public class Tester {
 
         String name = props.getString("tester.name");
 
-        System.out.println("This is a significant change");
+        System.out.println("This is a significant change.");
 
         System.out.println("Tester name is the following: " + name);
     }
